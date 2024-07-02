@@ -1,4 +1,4 @@
-# FDMBank
+# FDM Bank
 
 ## Overview
 FDMBank is a online banking platform for customers to manage their finances via multiple bank accounts and credit cards, as well as redeeming gifts based on points accrued.
