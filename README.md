@@ -31,4 +31,4 @@ FDMBank is a online banking platform for customers to manage their finances via 
 9. You will see the `Index page`.
 10. `Register` an account.
 11. `Log` into `FDMBank`.
-12. Navigate through `FDBank` and use the functionalities.
+12. Navigate through `FDMBank` and use the functionalities.
